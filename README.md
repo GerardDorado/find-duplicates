@@ -11,3 +11,12 @@ The steps that the program would take is:
 - Comparing each contact with each other, trying to find matches and a assign a score to the match
 .
 - Writing the output into a csv file.
+
+To run the program:
+
+    -Be sure that there is an input file names "contact.csv" in the same folder as the program
+    -Execute "go run main.go"
+    -You should see that an "output.csv" file was created
+
+To run the tests:
+    -Execute "go test *.go"
