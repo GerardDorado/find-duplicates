@@ -14,9 +14,10 @@ The steps that the program would take is:
 
 To run the program:
 
-    -Be sure that there is an input file names "contact.csv" in the same folder as the program
-    -Execute "go run main.go"
-    -You should see that an "output.csv" file was created
+- Be sure that there is an input file names "contact.csv" in the same folder as the program
+- Execute "go run main.go"
+- You should see that an "output.csv" file was created
 
 To run the tests:
-    -Execute "go test *.go"
+
+- Execute "go test *.go"
